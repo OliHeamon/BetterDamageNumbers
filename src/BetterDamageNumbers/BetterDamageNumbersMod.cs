@@ -2,6 +2,6 @@
 
 namespace BetterDamageNumbers;
 
-internal class BetterDamageNumbersMod : Mod
+internal sealed class BetterDamageNumbersMod : Mod
 {
 }

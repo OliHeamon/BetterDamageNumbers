@@ -1,3 +1,6 @@
 displayName = BetterDamageNumbers
-author = Me
+author = Oli
 version = 1.0.0
+side = Client
+hideCode = false
+hideResources = false
